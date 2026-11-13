@@ -14,11 +14,19 @@
   과정을 중요하게 생각합니다.
 </p>
 
+
 <p>
   <a href="https://github.com/sherry1248">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-sherry1248-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://velog.io/@snad3908/posts">
+    <img src="https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+  <a href="https://www.instagram.com/sherry_hi_bara/">
+    <img src="https://img.shields.io/badge/Instagram-sherry__hi__bara-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 <br clear="both">
 
