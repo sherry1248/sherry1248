@@ -1,3 +1,6 @@
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 # 안녕하세요. 개발자 Sherry입니다. 👋
 
@@ -5,9 +8,26 @@
 
 컴퓨터공학을 전공하며 소프트웨어 시스템과 인공지능을 공부하고 있습니다.
 
-AI 인프라, 자율주행, 로보틱스에 관심이 있으며,
-알고리즘과 시스템의 동작 원리를 깊이 이해하고
-직접 구현하는 개발자가 되고자 합니다.
+AI 인프라, 자율주행, 로보틱스에 관심이 있으며  
+배운 지식을 실제 프로젝트에 적용하며 개발 경험을 쌓고 있습니다.
+
+새로운 기술을 사용하는 것에 그치지 않고,  
+**동작 원리를 이해하고 직접 검증하는 과정**을 중요하게 생각합니다.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sherry1248-181717?style=flat-square&logo=github)](https://github.com/sherry1248)
+[![Velog](https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](#)
+
+</td>
+<td width="42%" valign="top">
+  <img src="./assets/hero.svg" width="100%" alt="Arch Linux terminal UI" />
+</td>
+  </tr>
+</table>
+
+<br clear="both" />
 
 ---
 
