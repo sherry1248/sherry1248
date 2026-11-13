@@ -1,7 +1,7 @@
 
 <img align="right" src="./assets/hero.svg" width="360" alt="Arch Linux 터미널" />
 
-<h2>안녕하세요, 개발자 Sherry입니다. 👋</h2>
+<h3>안녕하세요, 개발자 Sherry입니다. 👋</h3>
 
 <p>
   컴퓨터공학을 전공하며<br>
