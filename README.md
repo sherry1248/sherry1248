@@ -1,33 +1,30 @@
 
-<img align="right" src="./assets/hero.svg" width="380" alt="Arch Linux 터미널" />
+<img align="right" src="./assets/hero.svg" width="300" alt="Arch Linux 터미널" />
 
-<h2>안녕하세요. 개발자 Sherry입니다. 👋</h2>
-
-<h3>이론을 이해하고, 직접 구현하며 성장하는 개발자입니다.</h3>
+<h2>안녕하세요, 개발자 Sherry입니다. 👋</h2>
 
 <p>
-컴퓨터공학을 전공하며 소프트웨어 시스템과 인공지능을 공부하고 있습니다.
+  <strong>이론을 이해하고 직접 구현하며 성장하고 있습니다.</strong>
 </p>
 
 <p>
-AI 인프라, 자율주행, 로보틱스에 관심이 있으며,<br>
-배운 지식을 실제 프로젝트에 적용하며 개발 경험을 쌓고 있습니다.
+  컴퓨터공학을 전공하며<br>
+  소프트웨어와 인공지능을 공부하고 있습니다.
 </p>
 
 <p>
-새로운 기술을 사용하는 것에 그치지 않고,<br>
-<strong>동작 원리를 이해하고 직접 검증하는 과정</strong>을 중요하게 생각합니다.
+  AI 인프라와 자율주행 시스템에 관심이 있으며,<br>
+  배운 지식을 프로젝트에 적용하고 검증하는<br>
+  과정을 중요하게 생각합니다.
 </p>
 
 <p>
   <a href="https://github.com/sherry1248">
-    <img src="https://img.shields.io/badge/GitHub-sherry1248-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
-  <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" />
 </p>
 
-<br clear="both" />
+<br clear="both">
 
 ---
 
