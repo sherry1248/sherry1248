@@ -1,49 +1,115 @@
-<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<svg width="520" height="320" viewBox="0 0 520 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="terminal-clip">
+      <rect x="18" y="18" width="484" height="284" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- 터미널 배경 -->
   <rect width="520" height="320" rx="18" fill="#0D1117"/>
-  <rect x="18" y="18" width="484" height="284" rx="14" fill="#000000" stroke="#30363D"/>
-  <rect x="18" y="18" width="484" height="38" rx="14" fill="#2B2D31"/>
+  <rect x="18" y="18" width="484" height="284"
+        rx="14" fill="#05070A" stroke="#30363D"/>
+
+  <!-- Arch Linux 로고: 오른쪽 배경 워터마크 -->
+  <g clip-path="url(#terminal-clip)">
+    <g transform="translate(310 95) scale(0.76)"
+       fill="#1793D1" opacity="0.16">
+      <path d="M128 0
+        C112 40 102 65 84 103
+        C95 93 109 82 128 73
+        C115 86 106 104 98 126
+        C77 131 59 143 43 160
+        C69 149 84 149 94 152
+        C81 185 66 215 47 256
+        C70 244 90 233 113 223
+        C121 206 127 188 128 174
+        C129 188 136 207 144 223
+        C167 233 187 244 210 256
+        C191 215 176 185 163 152
+        C173 149 188 149 214 160
+        C198 143 180 131 159 126
+        C151 104 142 86 128 73
+        C147 82 161 93 172 103
+        C154 65 144 40 128 0Z"/>
+    </g>
+  </g>
+
+  <!-- 상단 타이틀 바 -->
+  <path d="M32 18 H488 Q502 18 502 32 V56 H18 V32 Q18 18 32 18Z"
+        fill="#2B2D31"/>
+
   <circle cx="42" cy="37" r="6" fill="#FF5F56"/>
   <circle cx="62" cy="37" r="6" fill="#FFBD2E"/>
   <circle cx="82" cy="37" r="6" fill="#27C93F"/>
 
-  <text x="260" y="41" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="14">
-    sherry -- zsh -- 80x24
+  <text x="260" y="41" text-anchor="middle"
+        fill="#A0A5AD" font-family="monospace" font-size="13">
+    sherry — zsh — Arch Linux
   </text>
 
-  <text x="38" y="86" fill="#7EE787" font-family="monospace" font-size="16" font-weight="bold">
+  <!-- 첫 번째 명령 -->
+  <text x="38" y="86" fill="#7EE787"
+        font-family="monospace" font-size="15" font-weight="bold">
     sherry@arch
   </text>
-  <text x="140" y="86" fill="#C9D1D9" font-family="monospace" font-size="16">
+  <text x="140" y="86" fill="#C9D1D9"
+        font-family="monospace" font-size="15">
     ~ % whoami
   </text>
 
-  <text x="38" y="116" fill="#79C0FF" font-family="monospace" font-size="16">
+  <text x="38" y="116" fill="#79C0FF"
+        font-family="monospace" font-size="16">
     Computer Science Student
   </text>
 
-  <text x="38" y="150" fill="#7EE787" font-family="monospace" font-size="16" font-weight="bold">
+  <!-- 두 번째 명령 -->
+  <text x="38" y="150" fill="#7EE787"
+        font-family="monospace" font-size="15" font-weight="bold">
     sherry@arch
   </text>
-  <text x="140" y="150" fill="#C9D1D9" font-family="monospace" font-size="16">
+  <text x="140" y="150" fill="#C9D1D9"
+        font-family="monospace" font-size="15">
     ~ % cat interests.json
   </text>
 
-  <text x="38" y="180" fill="#C9D1D9" font-family="monospace" font-size="15">{</text>
-  <text x="56" y="205" fill="#79C0FF" font-family="monospace" font-size="15">"focus"</text>
-  <text x="122" y="205" fill="#C9D1D9" font-family="monospace" font-size="15">:</text>
-  <text x="136" y="205" fill="#A5D6FF" font-family="monospace" font-size="15">"AI Infrastructure"</text>
-  <text x="38" y="228" fill="#79C0FF" font-family="monospace" font-size="15">"interest"</text>
-  <text x="122" y="228" fill="#C9D1D9" font-family="monospace" font-size="15">:</text>
-  <text x="136" y="228" fill="#A5D6FF" font-family="monospace" font-size="15">"Autonomous Driving"</text>
-  <text x="38" y="251" fill="#79C0FF" font-family="monospace" font-size="15">"goal"</text>
-  <text x="122" y="251" fill="#C9D1D9" font-family="monospace" font-size="15">:</text>
-  <text x="136" y="251" fill="#A5D6FF" font-family="monospace" font-size="15">"Build &amp; Learn"</text>
-  <text x="38" y="274" fill="#C9D1D9" font-family="monospace" font-size="15">}</text>
+  <!-- JSON 내용 -->
+  <g font-family="monospace" font-size="15">
+    <text x="38" y="180" fill="#C9D1D9">{</text>
 
-  <text x="38" y="298" fill="#7EE787" font-family="monospace" font-size="16" font-weight="bold">
+    <text x="56" y="205" fill="#79C0FF">"focus"</text>
+    <text x="122" y="205" fill="#C9D1D9">:</text>
+    <text x="136" y="205" fill="#A5D6FF">"AI Infrastructure",</text>
+
+    <text x="56" y="228" fill="#79C0FF">"interest"</text>
+    <text x="143" y="228" fill="#C9D1D9">:</text>
+    <text x="156" y="228" fill="#A5D6FF">"Autonomous Driving",</text>
+
+    <text x="56" y="251" fill="#79C0FF">"goal"</text>
+    <text x="122" y="251" fill="#C9D1D9">:</text>
+    <text x="136" y="251" fill="#A5D6FF">"Build &amp; Learn"</text>
+
+    <text x="38" y="274" fill="#C9D1D9">}</text>
+  </g>
+
+  <!-- 마지막 프롬프트 -->
+  <text x="38" y="296" fill="#7EE787"
+        font-family="monospace" font-size="15" font-weight="bold">
     sherry@arch
   </text>
-  <text x="140" y="298" fill="#C9D1D9" font-family="monospace" font-size="16">
-    ~ % _
+  <text x="140" y="296" fill="#C9D1D9"
+        font-family="monospace" font-size="15">
+    ~ %
   </text>
+
+  <!-- 깜빡이는 커서 -->
+  <rect x="177" y="282" width="9" height="17" fill="#79C0FF">
+    <animate attributeName="opacity"
+             values="1;1;0;0;1"
+             dur="1.2s"
+             repeatCount="indefinite"/>
+  </rect>
+
 </svg>
