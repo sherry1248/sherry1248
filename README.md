@@ -23,11 +23,14 @@ AI 인프라, 자율주행, 로보틱스에 관심이 있으며,
 
 ## `GET /projects`
 
-| 프로젝트 | 주요 내용 | 진행 상태 |
+전공에서 배운 이론을 실제 프로젝트에 적용하며 개발 경험을 쌓고 있습니다.
+
+| 프로젝트 | 설명 | 비고 |
 |:---|:---|:---|
 | **Hypatia** | 위성 네트워크 기반 AI 데이터센터 시뮬레이션 | 개발 중 |
-| **Autonomous Driving** | Webots 기반 자율주행 시뮬레이션 | 개발 중 |
-| [**Korean Counseling AI**](https://github.com/sherry1248/Korean-Counseling-AI) | 한국어 자연어 처리 기반 심리상담 AI · 부트캠프 2등 수상 | 완료 |
+| **Autonomous Driving** | Webots를 이용한 자율주행 차량 제어 및 시뮬레이션 | 개발 중 |
+| [**스쿨존맵**](https://github.com/sherry1248/Child-Traffic-Accident-Analysis) | 어린이 교통사고 데이터 분석 및 위험 지역 지도 시각화 | 🏆 부트캠프 2등 |
+| [**Korean Counseling AI**](https://github.com/sherry1248/Korean-Counseling-AI) | 한국어 자연어 처리 기반 심리상담 AI 시스템 | 🏆 부트캠프 2등 |
 
 ---
 
