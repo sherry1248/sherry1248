@@ -41,27 +41,44 @@ AI 인프라, 자율주행, 로보틱스에 관심이 있으며
 
 ---
 
+
 ## `GET /projects`
 
 전공에서 배운 이론을 실제 프로젝트에 적용하며 개발 경험을 쌓고 있습니다.
 
-| 프로젝트 | 설명 | 비고 |
-|:---|:---|:---|
-| **Hypatia** | 위성 네트워크 기반 AI 데이터센터 시뮬레이션 | 개발 중 |
-| **Autonomous Driving** | Webots를 이용한 자율주행 차량 제어 및 시뮬레이션 | 개발 중 |
-| [**스쿨존맵**](https://github.com/sherry1248/Child-Traffic-Accident-Analysis) | 어린이 교통사고 데이터 분석 및 위험 지역 지도 시각화 | 🏆 부트캠프 2등 |
-| [**Korean Counseling AI**](https://github.com/sherry1248/Korean-Counseling-AI) | 한국어 자연어 처리 기반 심리상담 AI 시스템 | 🏆 부트캠프 2등 |
+| 상태 | 프로젝트 | 설명 | 비고 |
+|:---:|:---|:---|:---|
+| 진행 중 | **Hypatia** | 위성 네트워크 기반 AI 데이터센터 시뮬레이션 | 개인 프로젝트 |
+| 진행 중 | **Autonomous Driving** | Webots 기반 자율주행 차량 제어 및 시뮬레이션 | 개인 프로젝트 |
+| 완료 | [**스쿨존맵**](https://github.com/sherry1248/Child-Traffic-Accident-Analysis) | 어린이 교통사고 데이터 분석 및 위험 지역 지도 시각화 | 🏆 멋쟁이사자처럼 2등 |
+| 완료 | [**Korean Counseling AI**](https://github.com/sherry1248/Korean-Counseling-AI) | 한국어 자연어 처리 기반 심리상담 AI 시스템 | 🏆 멋쟁이사자처럼 2등 |
 
 ---
 
-## `GET /tech-stack`
+## `GET /experience`
 
-### 프로그래밍 언어
+| 기간 | 활동 | 내용 |
+|:---|:---|:---|
+| 2026 ~ 현재 | 컴퓨터공학 전공 학습 | 운영체제, 네트워크, 알고리즘, 디지털논리설계 등 학습 |
+| 부트캠프 기간 | 멋쟁이사자처럼 | 팀 프로젝트 개발 및 2등 수상 경험 |
+| 현재 | 개인 프로젝트 | Hypatia, 자율주행 시뮬레이션, 시스템/AI 관련 프로젝트 진행 |
 
+---
+
+## `GET /stack`
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript)
+
+### Tools & Tech
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
+![Webots](https://img.shields.io/badge/Webots-0d1117?style=flat-square)
 
 ### 개발 도구 및 기술
 
