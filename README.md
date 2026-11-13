@@ -14,18 +14,14 @@
   과정을 중요하게 생각합니다.
 </p>
 
+
 <p>
   <img src="https://img.shields.io/badge/Portfolio-6C4BFF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  <a href="https://velog.io/@snad3908/posts">
-    <img src="https://img.shields.io/badge/Velog-0D0D10?style=flat-square&logo=velog&logoColor=20C997" alt="Velog" />
-  </a>
-  <a href="https://www.instagram.com/sherry_hi_bara/">
-    <img src="https://img.shields.io/badge/Instagram-0D0D10?style=flat-square&logo=instagram&logoColor=FF4F9E" alt="Instagram" />
-  </a>
-  <a href="mailto:klmas1248@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D0D10?style=flat-square&logo=gmail&logoColor=A18CFF" alt="Email" />
-  </a>
+  <a href="https://velog.io/@snad3908/posts"><img src="https://img.shields.io/badge/Velog-0D0D10?style=flat-square&logo=velog&logoColor=20C997" alt="Velog" /></a>
+  <a href="https://www.instagram.com/sherry_hi_bara/"><img src="https://img.shields.io/badge/Instagram-0D0D10?style=flat-square&logo=instagram&logoColor=FF4F9E" alt="Instagram" /></a>
+  <a href="mailto:klmas1248@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D10?style=flat-square&logo=gmail&logoColor=A18CFF" alt="Email" /></a>
 </p>
+
 
 
 <br clear="both">
