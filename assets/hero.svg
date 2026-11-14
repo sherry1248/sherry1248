@@ -1,6 +1,19 @@
 
 <svg width="520" height="320" viewBox="0 0 520 320"
      xmlns="http://www.w3.org/2000/svg">
+     
+  <!-- 포트폴리오 이동 안내 -->
+  <text
+    x="260"
+    y="340"
+    text-anchor="middle"
+    fill="#A78BFA"
+    font-family="sans-serif"
+    font-size="14"
+    font-weight="500">
+    ↗ Click to view my portfolio
+  </text>
+
 
   <defs>
     <clipPath id="terminal-clip">
