@@ -77,13 +77,6 @@
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
 ![Webots](https://img.shields.io/badge/Webots-0d1117?style=flat-square)
 
-### 개발 도구 및 기술
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
-
 ---
 
 ## `GET /github-stats`
