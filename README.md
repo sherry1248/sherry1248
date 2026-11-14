@@ -1,13 +1,6 @@
-  <a href="https://sherry-portfolio-ten.vercel.app">
-    <img
-      src="./assets/hero.svg"
-      width="500"
-    />
-  </a>
-  <p>
-    <a href="https://sherry-portfolio-ten.vercel.app">
-    </a>
-  </p>
+<a href="https://sherry-portfolio-ten.vercel.app">
+  <img align="right" src="./assets/hero.svg" width="500" alt="Arch Linux 터미널 - 포트폴리오 바로가기" />
+</a>
 
 
 <h3>안녕하세요, 개발자 Sherry입니다. 👋</h3>
