@@ -46,7 +46,7 @@
 | 상태 | 프로젝트 | 설명 | 비고 |
 |:---:|:---|:---|:---|
 | 진행 중 | [**Hypatia**](https://github.com/sherry1248/hypatia-ai-datacenter) | 위성 네트워크 기반 AI 데이터센터 시뮬레이션 | 개인 프로젝트 |
-| 진행 중 | **Autonomous Driving** | Webots 기반 자율주행 차량 제어 및 시뮬레이션 | 개인 프로젝트 |
+| 진행 중 | **Autonomous Driving** | 자율주행 차량 제어 및 시뮬레이션 | 개인 프로젝트 |
 | 완료 | [**스쿨존맵**](https://github.com/sherry1248/Child-Traffic-Accident-Analysis) | 어린이 교통사고 데이터 분석 및 위험 지역 지도 시각화 | 🏆 멋쟁이사자처럼 2등 |
 | 완료 | [**Korean Counseling AI**](https://github.com/sherry1248/Korean-Counseling-AI) | 한국어 자연어 처리 기반 심리상담 AI 시스템 | 🏆 멋쟁이사자처럼 2등 |
 
