@@ -1,5 +1,5 @@
 
-<img align="right" src="./assets/hero.svg" width="540" alt="Arch Linux 터미널" />
+<img align="right" src="./assets/hero.svg" width="500" alt="Arch Linux 터미널" />
 
 <h3>안녕하세요, 개발자 Sherry입니다. 👋</h3>
 
