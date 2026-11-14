@@ -60,6 +60,22 @@
 | 부트캠프 기간 | 멋쟁이사자처럼 | 팀 프로젝트 개발 및 2등 수상 경험 |
 | 현재 | 개인 프로젝트 | Hypatia, 자율주행 시뮬레이션, 시스템/AI 관련 프로젝트 진행 |
 
+
+---
+
+## `GET /awards`
+
+| 수상일 | 대회 및 프로그램 | 수상 |
+|:---|:---|:---|
+| 2024.02 | 테킷 AI SCHOOL 9기 FINAL PROJECT | 🏆 최우수상 |
+| 2023.12 | 테킷 AI SCHOOL 9기 MID PROJECT | 🏆 최우수상 |
+| 2024.02 | 테킷 AI SCHOOL 9기 DATATHON | 🥈 우수상 |
+
+**주관:** 멋쟁이사자처럼 테킷 AI SCHOOL 9기
+
+데이터 분석, 머신러닝 및 AI 응용 프로젝트를 수행하며
+교육 과정 내 프로젝트와 데이터톤에서 수상했습니다.
+
 ---
 
 ## `GET /stack`
@@ -83,6 +99,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherry1248&show_icons=true&theme=github_dark)
 
----
 
-> 배우고, 구현하고, 검증하며 성장합니다.
