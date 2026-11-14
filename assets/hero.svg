@@ -1,18 +1,6 @@
 
 <svg width="520" height="360" viewBox="0 0 520 360"
      xmlns="http://www.w3.org/2000/svg">
-     
-  <!-- 포트폴리오 이동 안내 -->
-  <text
-    x="260"
-    y="340"
-    text-anchor="middle"
-    fill="#A78BFA"
-    font-family="sans-serif"
-    font-size="14"
-    font-weight="500">
-    ↗ Click to view my portfolio
-  </text>
 
 
   <defs>
@@ -25,6 +13,17 @@
   <rect width="520" height="320" rx="18" fill="#0D1117"/>
   <rect x="18" y="18" width="484" height="284"
         rx="14" fill="#05070A" stroke="#30363D"/>
+<!-- 포트폴리오 이동 안내 -->
+  <text
+    x="260"
+    y="340"
+    text-anchor="middle"
+    fill="#A78BFA"
+    font-family="sans-serif"
+    font-size="14"
+    font-weight="500">
+    ↗ Click to view my portfolio
+  </text>
 
   <!-- Arch Linux 로고: 오른쪽 배경 워터마크 -->
   <g clip-path="url(#terminal-clip)">
